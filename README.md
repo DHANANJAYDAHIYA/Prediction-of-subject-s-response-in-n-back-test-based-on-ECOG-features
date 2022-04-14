@@ -2,7 +2,7 @@
 _________________________________________________________________________________________________________________________________
 
 Understanding the dataset:
-What is the mean about the memory_nback\data\al_nback.mat data(shape is (360120, 40)) 40 column
+What is the meaning behind memory_nback\data\al_nback.mat
 
 ## Select just one of the recordings here. This is subject 1, block 1.
 dat = alldat[1][1] 
